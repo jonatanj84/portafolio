@@ -1,0 +1,22 @@
+{
+  "registro": [
+    {
+      "id": "1",
+      "nombre": "Jose",
+      "apellido": "Primera",
+      "apartamento": "403",
+      "vehiculo": "renault",
+      "color": "Rojo",
+      "placa": "dfg 561"
+    },
+    {
+      "id": "04tPEZp",
+      "nombre": "asafdz",
+      "apellido": "vxdfv",
+      "apartamento": "vsds",
+      "vehiculo": "xcvsdv",
+      "color": "dsg",
+      "placa": "xcxc"
+    }
+  ]
+}
